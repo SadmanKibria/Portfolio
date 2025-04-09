@@ -16,7 +16,8 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: 'Sadman Kibria',
-  description: 'Sadman Kibria Portfolio'
+  description: 'Sadman Kibria Portfolio',
+  icons: '/Sadman_favicon.png'
 }
 
 export default function RootLayout({
