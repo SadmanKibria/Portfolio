@@ -22,7 +22,13 @@ export default function Header() {
             <Link href='/contact'>Contact</Link>
           </li>
           <li className='font-bold transition-colors hover:text-foreground'>
-            <Link href='#'>CV</Link>
+            <Link
+              href='https://drive.google.com/file/d/1cYIuAmPJ2MGFHG5hknNokv4AvUabFJ8-/view?usp=sharing'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              CV
+            </Link>
           </li>
         </ul>
 

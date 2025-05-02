@@ -4,7 +4,7 @@ import Link from 'next/link'
 const navigation = [
   {
     name: 'CV',
-    href: '#',
+    href: 'https://drive.google.com/file/d/1cYIuAmPJ2MGFHG5hknNokv4AvUabFJ8-/view?usp=sharing',
     icon: (props: JSX.IntrinsicAttributes & SVGProps<SVGSVGElement>) => (
       <svg fill='currentColor' viewBox='0 0 24 24' {...props}>
         <path d='M6 2C4.89 2 4 2.89 4 4V20C4 21.11 4.89 22 6 22H18C19.11 22 20 21.11 20 20V8L14 2H6ZM13 9V3.5L18.5 9H13ZM8 12H16V14H8V12ZM8 16H14V18H8V16Z' />

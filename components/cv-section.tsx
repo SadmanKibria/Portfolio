@@ -19,8 +19,12 @@ export default function CVSection() {
 
           <div>
             <Button asChild className='w-full py-2 text-sm'>
-              <Link href='/cv.pdf' target='_blank' rel='noopener noreferrer'>
-                View CV
+              <Link
+                href='https://drive.google.com/file/d/1cYIuAmPJ2MGFHG5hknNokv4AvUabFJ8-/view?usp=sharing'
+                target='_blank'
+                rel='noopener noreferrer'
+              >
+                Download CV (PDF)
               </Link>
             </Button>
           </div>
